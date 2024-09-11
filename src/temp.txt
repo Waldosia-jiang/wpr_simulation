@@ -1,0 +1,3 @@
+/usr/bin/ld: 当搜索用于 /home/wheeltec/wpr_simulation/src/wpb_home/wpbh_local_planner/./data/libwl_helper.so 时跳过不兼容的 -lwl_helper
+/usr/bin/ld: 找不到 -lwl_helper
+collect2: error: ld returned 1 exit status
